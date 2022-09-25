@@ -57,6 +57,8 @@ module.exports = withBundleAnalyzer({
     loader: 'akamai',
     path: '',
   },
+  basePath: '/nextjs-pages',
+  assetPrefix: '/nextjs-pages',
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
