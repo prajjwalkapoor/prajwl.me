@@ -1,6 +1,6 @@
 ---
 name: Prajjwal Kapoor
-avatar: ./static/images/avatar.jpg
+avatar: https://prajwl.me/static/images/avatar.jpg
 occupation: Full Stack Web Developer
 company:
 email: prajjwal.kapoor.mail@gmail.com
