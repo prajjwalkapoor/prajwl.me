@@ -9,6 +9,7 @@ const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
   const [subscribed, setSubscribed] = useState(false)
 
   const subscribe = async (e) => {
+    console.log(inputEl.current.value)
     e.preventDefault()
 
     const res = await fetch(`/api/${siteMetadata.newsletter.provider}`, {
