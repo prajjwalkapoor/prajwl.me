@@ -26,7 +26,7 @@ DNS works in the same way. The domain name of any website is mapped with the ser
 
 Check out this video by IBM to know about DNS in detail.
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyH0nYhMW9M" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+[https://www.youtube.com/watch?v=nyH0nYhMW9M&t=1s](https://www.youtube.com/watch?v=nyH0nYhMW9M&t=1s)
 
 After getting the server's IP address, there must be some way to communicate with servers to get the desired resources. Let's look at how client-server communication works.
 
