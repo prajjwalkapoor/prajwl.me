@@ -32,9 +32,9 @@ export default function Home({ posts }) {
 
           <CustomLink
             href="/about"
-            className="inline-flex items-center text-lg font-semibold text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-gray-100"
+            className="align-center text-lg font-semibold text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-gray-100"
           >
-            <span>Know More About Me</span> <span className="mb-4 text-4xl">&rarr;</span>
+            <span>Know More About Me</span> <span className="text-4xl">&rarr;</span>
           </CustomLink>
         </div>
         <div className="w-100 mx-2 my-12 flex items-center justify-center">
