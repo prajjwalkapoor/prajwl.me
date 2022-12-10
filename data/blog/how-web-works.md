@@ -20,7 +20,7 @@ As of now, we have understood that there are two parties between which a connect
 
 # Domain Name System ( DNS )
 
-Let's take the example of your phone's contact list to understand DNS. When you save any contact to your phone, you save it with the name of the server mapped with the number as the name is easier to remember as compared to the number.
+Let's take the example of your phone's contact list to understand DNS. When you save any contact to your phone, you save it with the name of the person mapped with the number as the name is easier to remember when you compare it with number.
 
 DNS works in the same way. The domain name of any website is mapped with the server's IP address to find where the server is located. DNS works as a translator and it translates the domain names to IP addresses so browsers can load Internet resources.
 
